@@ -9,13 +9,7 @@ module.exports = {
     },
   },
   head: [
-    [
-      'link',
-      {
-        rel: 'icon',
-        href: '/favicon.ico',
-      },
-    ],
+    ['link', { rel: 'icon', href: '/avatar.png' }],
     [
       'meta',
       {
@@ -30,7 +24,16 @@ module.exports = {
     noFoundPageByTencent: false,
     subSidebar: 'auto', //在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
     nav: navConf,
-
+    blogConfig: {
+      category: {
+        location: 2,
+        text: '分类',
+      },
+      tag: {
+        location: 3,
+        text: '标签',
+      },
+    },
     friendLink: [
       {
         title: '午后南杂',
@@ -48,6 +51,7 @@ module.exports = {
     // record: 'xxxx',
     startYear: '2020',
   },
+
   markdown: {
     lineNumbers: true,
   },
