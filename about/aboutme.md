@@ -24,20 +24,8 @@
 - 接口：`https://github.com/coderhcl/Node-Api-Personal-financial-management-system`
 
 #### 截图（一部分）
-
-- 登录注册 
-![](../../.vuepress/imgs/1.jpg)
-![](../../.vuepress/imgs/2.jpg)
-- 首页数据展示
-![](../../.vuepress/imgs/4.jpg)
-- 收入管理
-![](../../.vuepress/imgs/6.jpg)
-- 投资管理
-![](../../.vuepress/imgs/8-1.jpg)
-- 信息管理
-![](../../.vuepress/imgs/11.jpg)
-- 公告管理
-![](../../.vuepress/imgs/17.jpg)
+- 具体详细信息可访问上面地址链接
+![](../../.vuepress/imgs/cw.jpg) 
 
 ### 二、个人博客前台、后台、接口
 
@@ -50,42 +38,15 @@
 #### 具体可以访问 ：`https://github.com/coderhcl/blog`
 
 #### 截图（一部分）
+- 具体详细信息可访问上面地址链接
 
 ##### 1.前台界面展示
 
-- 首页 
-![](../../.vuepress/imgs/q1.png) 
-- 归档 
-![](../../.vuepress/imgs/q2.png) 
-- 友链 
-![](../../.vuepress/imgs/q3.png) 
-- 作品 
-![](../../.vuepress/imgs/q4.png) 
-- 建站日志 
-![](../../.vuepress/imgs/q5.png)
+![](../.vuepress/imgs/bkq.jpg)
 
-#### 2.后台界面展示
+##### 2.后台界面展示
 
-- 控制台 
-![](../../.vuepress/imgs/h1.png) 
-- 编写文章 
-![](../../.vuepress/imgs/h2.png) 
-- 发布文章 
-![](../../.vuepress/imgs/h3.png) 
-- 文章列表 
-![](../../.vuepress/imgs/h4.png) 
-- 分类列表 
-![](../../.vuepress/imgs/h5.png) 
-- 标签列表 
-![](../../.vuepress/imgs/h6.png) 
-- 友链管理 
-![](../../.vuepress/imgs/h7.png) 
-- 作品管理 
-![](../../.vuepress/imgs/h8.png) 
-- 建站日志 
-![](../../.vuepress/imgs/h9.png) 
-- 用户登录 
-![](../../.vuepress/imgs/h10.png)
+![](../.vuepress/imgs/bkh.jpg)
 
 #### 由于nuxt3目前还属于开发第一版，还有很多一些未知的bug，所有没有进行部署，使用vuepress作为自己的博客，以前自己写的博客因为电脑问题都没有了，有点可惜，所以才有这个版本。
 
