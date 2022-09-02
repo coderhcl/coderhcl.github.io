@@ -12,7 +12,7 @@ module.exports = [
   },
   {
     text: '关于我',
-    link: '/about/aboutme',
+    link: '/docs/关于自己/aboutme',
     icon: 'reco-account',
   },
 

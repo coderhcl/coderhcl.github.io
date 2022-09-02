@@ -42,11 +42,11 @@
 
 ##### 1.前台界面展示
 
-![](../.vuepress/imgs/bkq.jpg)
+![](../../.vuepress/imgs/bkq.jpg)
 
 ##### 2.后台界面展示
 
-![](../.vuepress/imgs/bkh.jpg)
+![](../../.vuepress/imgs/bkh.jpg)
 
 #### 由于nuxt3目前还属于开发第一版，还有很多一些未知的bug，所有没有进行部署，使用vuepress作为自己的博客，以前自己写的博客因为电脑问题都没有了，有点可惜，所以才有这个版本。
 
