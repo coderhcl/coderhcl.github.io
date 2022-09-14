@@ -1,7 +1,7 @@
 {
   "name": "hclBlog",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "hcl",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."

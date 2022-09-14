@@ -45,7 +45,7 @@ module.exports = {
     logo: '/logo.png',
     search: true,
     searchMaxSuggestions: 10,
-    lastUpdated: 'Last Updated',
+    lastUpdated: '最后更新',
     author: 'HCL',
     authorAvatar: '/avatar.png',
     // record: 'xxxx',
