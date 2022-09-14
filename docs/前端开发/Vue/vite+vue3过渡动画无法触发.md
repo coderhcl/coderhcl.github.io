@@ -7,6 +7,7 @@ categories:
 tags:
   - vue
   - Animate.css
+  - bug
 ---
 
 ::: warning 
